@@ -310,4 +310,4 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
     );
   }
-}  //MINUTO 7:40 DO VÍDEO
+}
